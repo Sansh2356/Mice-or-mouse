@@ -1,0 +1,24 @@
+# KiCad local history, backups, caches, per-user state
+.history/
+*-backups/
+fp-info-cache
+*.kicad_prl
+*.lck
+~*
+_autosave-*
+*.bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Fab outputs (regenerate from KiCad)
+gerbers/
+fab/
+*.zip
+
+# Third-party datasheets (re-downloadable)
+datasheets/
+
+# Office lock files / OS junk
+.~lock.*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "A603EP_Mouse")(type "KiCad")(uri "${KIPRJMOD}/A603EP_Mouse.pretty")(options "")(descr "A603EP mouse footprints"))
+)
