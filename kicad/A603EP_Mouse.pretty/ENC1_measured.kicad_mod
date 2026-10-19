@@ -8,6 +8,5 @@
   (pad "2" thru_hole circle (at 0.964 -2.423) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
   (pad "1" thru_hole rect (at 0.891 0.151) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
   (pad "3" thru_hole circle (at 0.816 2.525) (size 1.6 1.6) (drill 0.9) (layers "*.Cu" "*.Mask"))
-  (pad "MP" thru_hole circle (at -1.234 -5.266) (size 2.4 2.4) (drill 1.5) (layers "*.Cu" "*.Mask"))
   (pad "MP" thru_hole circle (at -1.437 5.012) (size 2.4 2.4) (drill 1.5) (layers "*.Cu" "*.Mask"))
 )
