@@ -10,8 +10,7 @@ _autosave-*
 *.kicad_pcb-bak
 *.kicad_sch-bak
 
-# Fab outputs (regenerate from KiCad)
-gerbers/
+
 fab/
 *.zip
 
